@@ -9,15 +9,14 @@ body{
     font-family: Arial, sans-serif;
     display: flex;
     flex-direction: column;
-    gap: 28px;
     justify-content: center;
     align-items: center;
     height: 100vh;
 }
 h1{
-    font-size: 5rem;
+   font-size: 5rem; 
 }
 p{
-    font-size: 2rem;
     color: brown;
+    font-size: 2rem;
 }
