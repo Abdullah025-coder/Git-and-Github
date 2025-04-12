@@ -20,3 +20,18 @@ p{
     color: brown;
     font-size: 2rem;
 }
+button{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    box-shadow: 0 0 10px rgba(2, 0, 0, 0.5);
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform;
+}
+button:hover{
+    background-color: blueviolet;
+    color: white;
+    transform: scale(1.05);
+}
